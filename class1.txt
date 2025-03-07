@@ -1,0 +1,3 @@
+Hi I am using unix
+Unix is a powerful tool
+Linux is a operating system , unix has commands
